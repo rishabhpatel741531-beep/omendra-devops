@@ -1,6 +1,2 @@
+console.log("hello world")
 
-const app = express();
-
-app.get('/', (req, res) => {
-  res.send('Hello, World!');
-});
